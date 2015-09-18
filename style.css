@@ -1,0 +1,11 @@
+
+table {
+	margin: auto;
+	width: 90%;
+	border: 1px solid black;
+}
+	td {
+		width: 8%;
+		background: lightblue;
+		border: 1px solid darkblue;
+	}
